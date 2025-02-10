@@ -8,6 +8,10 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: #9a4e2d;
+}
+
 .recipes > li > a {
   color: #ff35a1;
 }
